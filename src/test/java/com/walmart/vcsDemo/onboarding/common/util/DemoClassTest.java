@@ -24,6 +24,6 @@ class DemoClassTest {
     public void testSubtract() {
         assertEquals(-1, demoClass.subtract(2, 3), "Expected 2 - 3 to be -1");
         assertEquals(0, demoClass.subtract(0, 0), "Expected 0 - 0 to be 0");
-        assertEquals(1, demoClass.subtract(-1, -2), "Expected -1 - -2 to be 1");
+        assertEquals(1, demoClass.subtract(-2, -3), "Expected -2 - -3 to be 1");
     }
 }

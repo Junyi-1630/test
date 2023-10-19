@@ -2,6 +2,8 @@ package com.walmart.vcsDemo.onboarding.common.util;
 
 import java.util.Random;
 
+import java.util.Random;
+
 public class DemoClass {
 
     public int add(int a, int b) {
@@ -12,4 +14,3 @@ public class DemoClass {
         return a - b;
     }
 }
-

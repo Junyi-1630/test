@@ -67,12 +67,7 @@
 						</goals>
 					</execution>
 				</executions>
-				<configuration>
 
-					<includes>
-						<include>com/walmart/vcs/onboarding/**</include>
-					</includes>
-				</configuration>
 			</plugin>
 		</plugins>
 	</build>
